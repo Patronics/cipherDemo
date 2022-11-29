@@ -124,7 +124,8 @@ encripted message: <br>
 <textarea readonly cols="80" rows="10"><?php echo $translated;?></textarea>
 <br>
 <br>
-<a href=http://en.wikipedia.org/wiki/Caesar_cipher>how it works </a>
+<a href=https://en.wikipedia.org/wiki/Caesar_cipher>how the cipher works </a><br>
+<a href=https://github.com/Patronics/cipherDemo>how the code works </a>
 </div>
 </body>
 </html>
